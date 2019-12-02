@@ -1,2 +1,2 @@
-# Fintech.github.io
-База знаний Finceh https://maxalekseevdev.github.io/Fintech.github.io/
+# Finceh.github.io
+База знаний Finceh https://maxalekseevdev.github.io/Finceh.github.io/
